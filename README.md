@@ -59,4 +59,7 @@ This project demonstrates skills in **data modeling, visualization, and business
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Product_Analytics_Dashboard.git
+   git clone https://github.com/yourusername
+
+   ![product Analytics Dashboard (2)](https://github.com/user-attachments/assets/8c4e0741-6435-499b-bbfd-8ec453e2df56)
+
