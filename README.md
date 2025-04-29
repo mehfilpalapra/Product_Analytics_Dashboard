@@ -56,7 +56,6 @@ This project demonstrates skills in **data modeling, visualization, and business
 ---
 
 ![product Analytics Dashboard (2)](https://github.com/user-attachments/assets/9cf2ab6f-6366-4a17-a0fd-51076c35e871)
-![product Analytics Dashboard (2)](https://github.com/user-attachments/assets/e53d939d-148e-4049-a986-04746d773786)
 
    
 
