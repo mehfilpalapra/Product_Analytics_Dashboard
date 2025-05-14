@@ -54,8 +54,8 @@ This project demonstrates skills in **data modeling, visualization, and business
 - What are the month-over-month sales trends?
 
 ---
+![product Analytics Dashboard (2)](https://github.com/user-attachments/assets/e9e144f8-53d2-4d35-8ae2-d5de2225ebf9)
 
-![product Analytics Dashboard (2)](https://github.com/user-attachments/assets/9cf2ab6f-6366-4a17-a0fd-51076c35e871)
 
    
 
